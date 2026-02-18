@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
-using System.Lista
+using System.Collections.Generic;
 
 int cantidad;
 
@@ -82,5 +82,6 @@ else
 }
 
 Console.ReadKey();
+
 
 
